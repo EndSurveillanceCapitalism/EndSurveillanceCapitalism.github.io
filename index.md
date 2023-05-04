@@ -2,7 +2,7 @@
 layout: splash
 ---
 
-##ESC.fyi is an emergent work-in-progress
+## ESC.fyi is an emergent work-in-progress
 
 ESC isn’t an organization. It isn’t a platform. It’s a call for all of us to recognize a movement that’s been building for years—a movement to define and defend our digital human rights.  
 
