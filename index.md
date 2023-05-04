@@ -21,7 +21,7 @@ Are you with us? Here are ways to learn more, to get involved, to show support, 
 **Want to get involved?**
 
 * Join the [ESC Welcome Circle on Signal](https://signal.group/#CjQKIPyWMZooMpUSfodgttqiQP7ZbPiAGBhg0Aw4PIuvIU0REhDmRYuwvQEY2_q-swgxgH0L)
-* Join the [ESC Group on Hylo](https://www.hylo.com/groups/esc/join/winRiQdDOZ)
+* Join the [ESC Discussion Forum on Hylo](https://www.hylo.com/groups/esc/join/winRiQdDOZ)
 
 **Curious? Educate yourself: (Resources Coming Soon)**
 
