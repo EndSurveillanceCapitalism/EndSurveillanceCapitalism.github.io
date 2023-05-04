@@ -3,7 +3,7 @@ layout: splash
 ---
 
 
-<div style="display: flex; align-items: center; justify-content: center; height: 50vh; text-align:center">
+<div style="display: flex;">
   <div> 
     <h1>ESC.fyi is an emergent work-in-progress</h1>
     <p>ESC isn’t an organization. It isn’t a platform. It’s a call for all of us to recognize a movement that’s been building for years—a movement to define and defend our digital human rights.  </p>
